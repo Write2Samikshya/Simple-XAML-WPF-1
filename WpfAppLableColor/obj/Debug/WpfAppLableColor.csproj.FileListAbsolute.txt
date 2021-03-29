@@ -1,0 +1,15 @@
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\bin\Debug\WpfAppLableColor.exe.config
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\bin\Debug\WpfAppLableColor.exe
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\bin\Debug\WpfAppLableColor.pdb
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.csprojAssemblyReference.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\MainWindow.g.cs
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\App.g.cs
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor_MarkupCompile.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor_MarkupCompile.lref
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\MainWindow.baml
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.g.resources
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.Properties.Resources.resources
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.csproj.GenerateResource.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.csproj.CoreCompileInputs.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.exe
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\WpfAppLableColor\WpfAppLableColor\obj\Debug\WpfAppLableColor.pdb
